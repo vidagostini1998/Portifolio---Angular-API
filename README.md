@@ -1,2 +1,5 @@
 # Portifolio - Angular API
- API Rick & Morty
+ 
+ Exemplo de uso de services e injeção de dependencia com a API do Rick & Morty
+ 
+https://rickandmortyapi.com/
